@@ -16,7 +16,8 @@
     <packaging>pom</packaging>
 
     <modules>
-        <module>spring-security-oAuth2-dependencies</module>
+        <module>spring-security-oauth2-dependencies</module>
+        <module>spring-security-oauth2-demo</module>
         <!-- 工程模块请随着项目的不断完善自行添加 -->
     </modules>
 

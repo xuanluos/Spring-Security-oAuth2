@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.xuanluos</groupId>
-    <artifactId>spring-security-oAuth2-dependencies</artifactId>
+    <artifactId>spring-security-oauth2-dependencies</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 

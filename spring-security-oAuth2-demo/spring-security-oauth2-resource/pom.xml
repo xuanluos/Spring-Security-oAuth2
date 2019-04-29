@@ -9,7 +9,7 @@
         <version>1.0.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>spring-security-oauth2-server</artifactId>
+    <artifactId>spring-security-oauth2-resource</artifactId>
 
     <licenses>
         <license>
@@ -24,7 +24,7 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
-                    <mainClass>com.xuanluos.oauth2.server.OAuth2ServerApplication</mainClass>
+                    <mainClass>com.xuanluos.oauth2.resource.OAuth2ResourceApplication</mainClass>
                 </configuration>
             </plugin>
         </plugins>
